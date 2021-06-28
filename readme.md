@@ -15,7 +15,7 @@
     <br>
     <h4>
     <img src = "Omakase03.jpg" alt "03" width = 120, height = 120>  
-    <img src = "Omakase04 (2).jpg" alt "04" width = 83, height = 120> 
+    <img src = "Omakase04.jpg" alt "04" width = 83, height = 120> 
     <img src = "Omakase07.png" alt "07" width = 120, height = 120>
     <!--<img src = "Tempura Maki $10.80.jpg" alt "Temoura Maki" width =90>
     <img src = "Sushi Moriawase $26.80.jpg" alt "Sushi Moriawase" width = 90>
