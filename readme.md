@@ -95,8 +95,5 @@
         <div class="form-control">
     <p id="reco" class="blinking"></p>
     </div>
-
-
-
-
+	
 </html>
